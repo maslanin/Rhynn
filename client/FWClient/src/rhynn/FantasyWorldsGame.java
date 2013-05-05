@@ -8962,8 +8962,8 @@ if (true) return;
                         if ( release == false 
                                 /*&& (clientName==null || clientName.equals("")) && (clientPass==null || clientPass.equals(""))*/
                                  ) {
-                            clientName = "acaca";
-                            clientPass = "aaaaa";
+                            clientName = "";
+                            clientPass = "";
                         }
 
                         if (clientName!=null) {
